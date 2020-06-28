@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b4d33aeb7e28c4e47a487b1e3d2abc0f
+timeCreated: 1518036697
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minster6
+  fontNames:
+  - Minster6
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b4eaf9d4275cee44a73a5ffd3f68922
+timeCreated: 1518036691
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minster No 1
+  fontNames:
+  - Minster No 1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

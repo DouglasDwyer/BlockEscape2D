@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Vectors", "Simple Vectors.csproj", "{BCDB415F-4C83-8E01-9350-E0B62CB5C75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Vectors.Plugins", "Simple Vectors.Plugins.csproj", "{8C16BD52-96A4-3294-43BC-909553EA50A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Vectors.Editor", "Simple Vectors.Editor.csproj", "{C5F3A62B-2074-382C-A7CA-445B458B3053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Vectors.Editor.Plugins", "Simple Vectors.Editor.Plugins.csproj", "{15EEC125-61DE-180E-B8EA-2A4B60C52F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDB415F-4C83-8E01-9350-E0B62CB5C75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDB415F-4C83-8E01-9350-E0B62CB5C75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDB415F-4C83-8E01-9350-E0B62CB5C75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDB415F-4C83-8E01-9350-E0B62CB5C75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C16BD52-96A4-3294-43BC-909553EA50A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C16BD52-96A4-3294-43BC-909553EA50A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C16BD52-96A4-3294-43BC-909553EA50A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C16BD52-96A4-3294-43BC-909553EA50A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F3A62B-2074-382C-A7CA-445B458B3053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F3A62B-2074-382C-A7CA-445B458B3053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F3A62B-2074-382C-A7CA-445B458B3053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F3A62B-2074-382C-A7CA-445B458B3053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15EEC125-61DE-180E-B8EA-2A4B60C52F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EEC125-61DE-180E-B8EA-2A4B60C52F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EEC125-61DE-180E-B8EA-2A4B60C52F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EEC125-61DE-180E-B8EA-2A4B60C52F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
